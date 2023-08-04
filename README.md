@@ -1,9 +1,3 @@
-# Data-Ocean2023
+# Understanding the Ocean Biological Carbon Pump with Big Data
 
-
-- Please do not include original data in this repo !!! I will explain the data resource by url
-- Upload your code and your processed data with the following format 'variablename_yourname' , for example 'npp_mean_echo', this will help us track the assigned work
-- For any code help or debugging , simply @ your teammates or team lead
-- Do not change other peoples work without notice, since we won't working on different branch , this will help us from conflict in code.
-- Feel free to add more !
-- 
+This is the repository for the 2023 Data+/Climate+ project "Understanding the ocean biological carbon pump with big data." Our project focuses on net community production (NCP), a critical biological process controlling the carbon dioxide fluxes between the atmosphere and the ocean. Our goal is to estimate global NCP using machine learning algorithms trained with satellite data and cruise records. To check our raw datasets, please go to the "original_data" folder. To check our processed data, please visit the "processed_data" folder. For our codes for plotting and visualization, please check the "plot" folder. Finally, the "model" folder stores the codes of our models to estimate the NCP. See the readme in each child folder for more details. Note that some codes might not work because the file location changes or we did not put certain auxiliary files on the repository.
